@@ -1,0 +1,146 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v74_140 {
+  width: 100%;
+  height: 752px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v76_67 {
+  width: 100%;
+  height: 768px;
+  background: linear-gradient(rgba(23,28,133,1), rgba(23,28,133,0.4399999976158142));
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v76_68 {
+  width: 100%;
+  height: 529px;
+  background: rgba(23,28,133,0.25);
+  opacity: 1;
+  position: absolute;
+  top: 132px;
+  left: 75px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v76_69 {
+  width: 307px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 257px;
+  left: 120px;
+  font-family: Open Sans;
+  font-weight: Bold;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v76_71 {
+  width: 424px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 353px;
+  left: 102px;
+  font-family: Open Sans;
+  font-weight: SemiBold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v82_78 {
+  width: 136px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 202px;
+  left: 813px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v98_271 {
+  width: 374px;
+  height: 360px;
+  background: url("../images/v98_271.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 226px;
+  left: 694px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v90_78 {
+  width: 224px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 137px;
+  left: 35px;
+  font-family: Open Sans;
+  font-weight: Light;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.v82_79 {
+  width: 224px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 35px;
+  left: 35px;
+  font-family: Open Sans;
+  font-weight: Light;
+  font-size: 15px;
+  opacity: 1;
+  text-align: left;
+}
+.v94_89 {
+  width: 150px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 302px;
+  left: 35px;
+  font-family: Open Sans;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v94_90 {
+  width: 156px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 302px;
+  left: 201px;
+  font-family: Open Sans;
+  font-weight: Bold;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}

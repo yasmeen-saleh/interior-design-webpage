@@ -1,0 +1,77 @@
+
+* {
+  box-sizing: border-box;
+}
+.logBackground{
+  
+    height: 768px;
+    flex-shrink: 0;  
+    background-image: url('pictures/background.jpg') ;
+   
+}
+.rectangle-25{
+    width: 1350px;
+    height: 529px;
+    flex-shrink: 0; 
+    /* background: rgba(24, 28, 134, 0.25);
+box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25); */
+
+background: rgba(24, 28, 134, 0.60);
+box-shadow: 0px 4px 4px 5px rgba(0, 0, 0, 0.25);
+}
+
+.signuperror{
+  color: #f34040;
+  font-size:15px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+.welcome{
+color: #FFF;
+font-size: 40px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing:2px;
+display: block;
+
+}
+
+
+
+input{
+    display: flex;
+width: 300px;
+padding: 5px 23px;
+gap: 6px;
+border-radius: 6px;
+border: 1px solid #181C86;
+background: #EFEEEE;
+height: 40px;
+display:inline;
+ 
+}
+ 
+
+
+label{
+    color: #EFEEEE;
+    font-size: 16px;
+    font-family:Open Sans ;
+    padding: 10px;
+    margin:5px 5px 5px 0px;
+}
+
+button{
+  width: 154px;
+height: 43px;
+flex-shrink: 0;
+background-color: #f34040;
+border-radius: 8px;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+

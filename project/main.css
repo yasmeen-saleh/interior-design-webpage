@@ -1,0 +1,44 @@
+/* button{
+    background-color: #181C86; 
+    width: 120px; 
+    height: 34px;
+    text-align: center;
+     color: white; 
+     font-size: 10px;
+      font-family: Mulish;
+       font-weight: 400; 
+       letter-spacing: 1.5;
+      
+} */
+
+
+.right{
+    float:right;
+    display:block;
+    padding-right: 120px;
+    padding-bottom: 30px;
+    margin:0px 10px;
+    text-align: left;
+   } 
+   .left{
+    float: left;
+    display:block;
+    margin: 0px 10px;
+    padding-left: 120px;
+    padding-bottom: 30px;
+    text-align: left;
+   }
+
+   h2{
+    text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.50);
+font-family: Montserrat;
+font-size: 40px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+letter-spacing: 3px;
+   }
+
+
+
+
